@@ -1,0 +1,684 @@
+.GenericTextBoxQRC {
+
+    border-radius: 4px;
+    background-color: #eee;
+    border: 4px solid #00a88c;
+    color: #161033;
+    padding: 30px 30px 30px 30px;
+
+}
+
+.imageQRCStyle { border-radius: 30px;  }
+
+/*Welcome to the course*/
+
+.Image_well-welcome-container {
+    background: url("../images/shutterstock_1116918470.jpg") no-repeat top right;
+    /*Change RIGHT to LEFT to keep subject in frame on XS*/
+    border-radius: 4px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    min-height: 800px;
+    /*Change to show as much background image as you want*/
+}
+
+.Image_well-welcome-container .Image_well_Inner_box {
+    background-color: #ffffff;
+    /*Change 255 to 0 for dark. Decrease 0.8 to make more transparent*/
+    border-radius: 4px;
+    margin-top: 250px;
+    /*Change to move box up or down*/
+    border: 2px dotted #FFF;
+}
+
+.Image_well-welcome-container .Image_well_Inner_content {
+    padding: 20px;
+}
+
+
+.Image_well-welcome-container .Image_well_Inner_content h2 {
+    padding-top: 10px;
+    margin-top: 0px;
+}
+
+.Image_well-welcome-container .Image_well_Inner_content {
+    
+}
+
+
+/*END Welcome to the course*/
+
+
+/*What is Digital Literacy*/
+
+.Image_well-myths-container {
+    background: url("../images/shutterstock_447476002.jpg") no-repeat top left; /*Change RIGHT to LEFT to keep subject in frame on XS*/
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    min-height: 400px; /*Change to show as much background image as you want*/
+    background-size: cover;
+    padding-top:15px;
+}
+
+/*END What is Digital Literacy*/
+
+/*Hardware*/
+
+.Image_well-hardware-container {
+    background: url("../images/RS45029_shutterstock_224908105.jpg") no-repeat top left; /*Change RIGHT to LEFT to keep subject in frame on XS*/
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    min-height: 400px; /*Change to show as much background image as you want*/
+    background-size:contain;
+}
+
+.Image_well-hardware-container .Image_well_Inner_box {
+
+    border-radius: 4px;
+    margin-top: 30px; /*Change to move box up or down*/
+    margin-bottom: 80px; /*Change to move box up or down*/
+    background-color: #eee;
+    border: 4px solid #E31B23;
+    color: #161033;
+
+
+}
+
+.Image_well-hardware-container .Image_well_Inner_content {
+    padding: 20px;
+}
+
+
+/*END Hardware*/
+
+
+@media (min-width: 0px) {
+.HardAct{
+  padding-bottom: 650px;   
+}
+}
+
+
+@media (min-width: 300px) {
+.HardAct{
+  padding-bottom: 650px;   
+}
+}
+
+
+@media (min-width: 700px) {
+.HardAct{
+  padding-bottom: 650px;   
+}
+}
+
+@media (min-width: 944px) {
+.HardAct{
+  padding-bottom: 600px;   
+}
+}
+
+@media (min-width: 1140px) {
+.HardAct{
+  padding-bottom: 500px;   
+}
+}
+
+
+/*Smart Devices.html*/
+.Image_well-smartDev-container {
+    background: url("../images/shutterstock_1343139221.jpg") no-repeat top right;
+    /*Change RIGHT to LEFT to keep subject in frame on XS*/
+    border-radius: 4px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+
+    /*Change to show as much background image as you want*/
+}
+
+@media (min-width: 0px) {
+.Image_well-smartDev-container{
+    min-height: 350px;  
+}
+}
+
+
+@media (min-width: 700px) {
+.Image_well-smartDev-container{
+    min-height: 350px;  
+}
+}
+
+@media (min-width: 944px) {
+.Image_well-smartDev-container{
+    min-height: 400px; 
+}
+}
+
+@media (min-width: 1140px) {
+.Image_well-smartDev-container{
+    min-height: 700px;  
+}
+}
+
+.Image_well-smartDev-container .Image_well_Inner_box {
+    background-color: #E5E5E5;
+    /*Change 255 to 0 for dark. Decrease 0.8 to make more transparent*/
+    border-radius: 4px;
+    /*Change to move box up or down*/
+    border: 2px dotted #E31B23;
+}
+
+@media (min-width: 0px) {
+.Image_well-smartDev-container .Image_well_Inner_box {
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+}
+
+
+@media (min-width: 700px) {
+.Image_well-smartDev-container .Image_well_Inner_box {
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+}
+
+@media (min-width: 944px) {
+.Image_well-smartDev-container .Image_well_Inner_box {
+    margin-top: 126px;
+    margin-bottom: 20px;
+}
+}
+
+@media (min-width: 1140px) {
+.Image_well-smartDev-container .Image_well_Inner_box {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    
+}
+}
+
+.Image_well-smartDev-container .Image_well_Inner_content {
+    padding: 20px;
+}
+
+
+.Image_well_Inner_contentXS{
+    border-radius: 4px;
+    margin-top: 30px; /*Change to move box up or down*/
+    margin-bottom: 80px; /*Change to move box up or down*/
+    background-color: #eee;
+    border: 4px solid #E31B23;
+    color: #161033;
+    padding:20px;
+}
+
+
+/*END Smart Devices*/
+
+
+.SmartAct{
+  padding-bottom: 550px;   
+}
+}
+
+
+
+/*What is software.html*/
+
+@media (min-width: 0px) {
+.Image_well-wsoft-container{
+    min-height: 350px; 
+    background: url("../images/RS45023_shutterstock_88217509.jpg") no-repeat top right;
+    /*Change RIGHT to LEFT to keep subject in frame on XS*/
+    border-radius: 4px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+
+    /*Change to show as much background image as you want*/ 
+}
+}
+
+
+@media (min-width: 700px) {
+.Image_well-wsoft-container{
+    min-height: 350px;  
+    background: url("../images/RS45023_shutterstock_88217509.jpg") no-repeat top right;
+    /*Change RIGHT to LEFT to keep subject in frame on XS*/
+    border-radius: 4px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+
+    /*Change to show as much background image as you want*/
+}
+}
+
+@media (min-width: 944px) {
+.Image_well-wsoft-container{
+    min-height: 400px;
+    background: url("../images/RS45023_shutterstock_88217509.jpg") no-repeat top right;
+    /*Change RIGHT to LEFT to keep subject in frame on XS*/
+    border-radius: 4px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+
+    /*Change to show as much background image as you want*/  
+}
+}
+
+@media (min-width: 1140px) {
+.Image_well-wsoft-container{
+    min-height: 700px;
+    background: url("../images/RS45023_shutterstock_88217509.jpg") no-repeat top right;
+    /*Change RIGHT to LEFT to keep subject in frame on XS*/
+    border-radius: 4px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+
+    /*Change to show as much background image as you want*/ 
+}
+}
+
+.Image_well-wsoft-container .Image_well_Inner_box {
+    background-color: #161033;
+    /*Change 255 to 0 for dark. Decrease 0.8 to make more transparent*/
+    border-radius: 4px;
+    /*Change to move box up or down*/
+    border: 2px dotted #fff;
+    color: #fff;
+}
+
+@media (min-width: 0px) {
+.Image_well-wsoft-container .Image_well_Inner_box {
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+}
+
+
+@media (min-width: 700px) {
+.Image_well-wsoft-container .Image_well_Inner_box {
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+}
+
+@media (min-width: 944px) {
+.Image_well-wsoft-container .Image_well_Inner_box {
+    margin-top: 126px;
+    margin-bottom: 20px;
+}
+}
+
+@media (min-width: 1140px) {
+.Image_well-wsoft-container .Image_well_Inner_box {
+    margin-top: 300px;
+    margin-bottom: 0px;
+    
+}
+}
+
+.Image_well-wsoft-container .Image_well_Inner_content {
+    padding: 20px;
+}
+
+.Image_well_Inner_wsoftXS{
+    border-radius: 4px;
+    margin-top: 30px; /*Change to move box up or down*/
+    margin-bottom: 80px; /*Change to move box up or down*/
+    background-color: #161033;
+    border: 4px solid #fff;
+    color: #fff;
+    padding:20px;
+}
+
+
+/*END What is software.html*/
+
+
+#TypSoftAcc .panel-default>.panel-heading {
+    color: #fff;
+    background-color: #00A88C;
+    border-color: #ddd;
+}
+
+#TypSoftAcc .panel-default> .panel-collapse> .panel-body{
+    background-color: #CCEEE8;
+
+}
+
+
+
+@media (min-width: 0px) {
+.ExAppSoft{
+  padding-bottom: 700px;   
+}
+}
+
+
+@media (min-width: 300px) {
+.ExAppSoft{
+  padding-bottom: 700px;   
+}
+}
+
+
+@media (min-width: 700px) {
+.ExAppSoft{
+  padding-bottom: 760px;   
+}
+}
+
+@media (min-width: 944px) {
+.ExAppSoft{
+  padding-bottom: 760px;   
+}
+}
+
+@media (min-width: 1140px) {
+.ExAppSoft{
+  padding-bottom: 615px;   
+}
+}
+
+
+/* START - TEXT ON IMAGE  */
+
+.text-on-image {
+    position: relative; 
+}
+.text-on-image .content {
+    hyphens: none;
+    position: absolute;
+    top: 0px;
+    margin-top:auto;
+}
+.text-on-image .content > *:first-child {
+    margin-top: 0 !important;
+}
+
+
+/* col-sm */
+@media (max-width: 1139px) {
+.text-on-image .thumbnail {
+    margin-bottom: 15px;        
+}
+.text-on-image .content {
+    position: initial !important;
+    background-color:transparent !important;
+    border: none !important;
+    color:#333 !important;
+    padding: 0 !important;
+    margin: 15px 0;
+    width:100% !important;
+    box-shadow: none!important;
+}
+.text-on-image .thumbnail img {
+    margin: auto!important;
+}
+
+}
+
+/*animations*/
+
+.slideInLeft {
+    -webkit-animation-name: slideInLeft;
+    animation-name: slideInLeft;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+
+@-webkit-keyframes slideInLeft {
+    0% {
+        -webkit-transform: translateX(-100%);
+        transform: translateX(-100%);
+        visibility: visible;
+    }
+
+    100% {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+
+    }
+}
+
+@keyframes slideInLeft {
+    0% {
+        -webkit-transform: translateX(-100%);
+        transform: translateX(-100%);
+        visibility: visible;
+    }
+
+    100% {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+    }
+}
+
+
+.slideInRight {
+    -webkit-animation-name: slideInRight;
+    animation-name: slideInRight;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+
+@-webkit-keyframes slideInRight {
+    0% {
+        -webkit-transform: translateX(100%);
+        transform: translateX(100%);
+        visibility: visible;
+    }
+
+    100% {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+
+    }
+}
+
+@keyframes slideInRight {
+    0% {
+        -webkit-transform: translateX(100%);
+        transform: translateX(100%);
+        visibility: visible;
+    }
+
+    100% {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+    }
+}
+
+
+/* END - TEXT ON IMAGE */
+
+
+/* START - TEXT ON IMAGE  */
+
+.text-on-image {
+    position: relative; 
+}
+.text-on-image .content {
+    hyphens: none;
+    position: absolute;
+    top: 0px;
+    margin-top:auto;
+}
+.text-on-image .content > *:first-child {
+    margin-top: 0 !important;
+}
+
+
+/* col-sm */
+@media (max-width: 1139px) {
+.text-on-image .thumbnail {
+    margin-bottom: 15px;        
+}
+.text-on-image .content {
+    position: initial !important;
+    background-color:transparent !important;
+    border: none !important;
+    color:#333 !important;
+    padding: 0 !important;
+    margin: 15px 0;
+    width:100% !important;
+    box-shadow: none!important;
+}
+.text-on-image .thumbnail img {
+    margin: auto!important;
+}
+
+}
+
+/*animations*/
+
+.slideInLeft {
+    -webkit-animation-name: slideInLeft;
+    animation-name: slideInLeft;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+
+@-webkit-keyframes slideInLeft {
+    0% {
+        -webkit-transform: translateX(-100%);
+        transform: translateX(-100%);
+        visibility: visible;
+    }
+
+    100% {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+
+    }
+}
+
+@keyframes slideInLeft {
+    0% {
+        -webkit-transform: translateX(-100%);
+        transform: translateX(-100%);
+        visibility: visible;
+    }
+
+    100% {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+    }
+}
+
+
+.slideInRight {
+    -webkit-animation-name: slideInRight;
+    animation-name: slideInRight;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+
+@-webkit-keyframes slideInRight {
+    0% {
+        -webkit-transform: translateX(100%);
+        transform: translateX(100%);
+        visibility: visible;
+    }
+
+    100% {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+
+    }
+}
+
+@keyframes slideInRight {
+    0% {
+        -webkit-transform: translateX(100%);
+        transform: translateX(100%);
+        visibility: visible;
+    }
+
+    100% {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+    }
+}
+
+
+/* END - TEXT ON IMAGE */
+
+/* text alternative */
+    /* CSS */
+    .tq_text_alt {
+    margin-bottom: 40px;
+    padding-bottom: 15px;
+  }
+  @media (max-width: 940px) {
+    .hype_activity {
+      display: none;
+    }
+    .tq_text_alt {
+      display: block !important;
+    }
+  }
+  #myDIV{display:none;}
+.button {
+  margin-top: 4px;
+  align-items: center;
+  background-color: #fff;
+  border: 2px solid #E31B23;
+  box-sizing: border-box;
+  color: #003057;
+  cursor: pointer;
+  display: inline-flex;
+  fill: #000;
+  font-family: Inter,sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  height: 48px;
+  justify-content: center;
+  letter-spacing: -.8px;
+  line-height: 24px;
+  min-width: 140px;
+  outline: 0;
+  padding: 0 10px;
+  text-align: center;
+  text-decoration: none;
+  transition: all .3s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+
+}
+.button:focus {
+  color: #E31B23;
+}
+
+.button:hover {
+  border-color: #E31B23;
+  color: #E31B23;
+  fill: #E31B23;
+}
+
+.button:active {
+  border-color: #E31B23;
+  color: #E31B23;
+  fill: #E31B23;
+}
+@media (min-width: 768px) {
+  .button {
+    min-width: 170px;
+  }
+}
+.thumbnail.with-caption small:before {
+    content: none;
+}

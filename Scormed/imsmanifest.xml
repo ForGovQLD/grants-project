@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<manifest xmlns:d2l_2p0="http://desire2learn.com/xsd/d2lcp_v2p0" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" identifier="TAFEQLD.Not scormed (mcc00013)">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+  <organizations default="Not scormed (mcc00013)">
+    <organization identifier="Not scormed (mcc00013)">
+      <item completion_type="2" description="" identifier="a56bcc42-8ffd-4af0-97cb-5a90a0a7f829">
+        <title>Introduction</title>
+        <item completion_type="2" description="" identifier="32511278-f8e0-40a2-8746-299362414439" identifierref="RES_CONTENT_12303064">
+          <title>Welcome to the course</title>
+        </item>
+        <item completion_type="2" description="" identifier="f79232cc-1116-4e95-b7d5-ef719996e937" identifierref="RES_CONTENT_12303065">
+          <title>What is Digital Literacy?</title>
+        </item>
+      </item>
+      <item completion_type="2" description="" identifier="82672095-511f-444f-bcf5-04ceb8320c6f">
+        <title>Hardware</title>
+        <item completion_type="2" description="" identifier="7bfc5847-f861-491d-ba61-6074c872a388" identifierref="RES_CONTENT_12303067">
+          <title>Hardware</title>
+        </item>
+        <item completion_type="2" description="" identifier="b569d032-5301-425d-9b51-de43229f30df" identifierref="RES_CONTENT_12303068">
+          <title>What are the different types of computers?</title>
+        </item>
+        <item completion_type="2" description="" identifier="0cad0820-37ca-43f2-8bd2-333251f81c13" identifierref="RES_CONTENT_12303069">
+          <title>Smartphones</title>
+        </item>
+        <item completion_type="2" description="" identifier="ee1d6c44-e2ec-4717-8f08-97376ce524bc" identifierref="RES_CONTENT_12303070">
+          <title>Wearables</title>
+        </item>
+        <item completion_type="2" description="" identifier="7d6609b3-30b6-4f91-b7cf-a95cca48659c" identifierref="RES_CONTENT_12303078">
+          <title>Smart Devices</title>
+        </item>
+        <item completion_type="2" description="" identifier="fe679714-adfb-40f6-89e6-8985c8c59b7e" identifierref="RES_CONTENT_12303079">
+          <title>An IoT smart home with AI by Qualcomm Technologies</title>
+        </item>
+        <item completion_type="2" description="" identifier="f5325c94-9664-4700-b489-c1020b2a651b" identifierref="RES_CONTENT_12303080">
+          <title>Activity: Smart devices</title>
+        </item>
+      </item>
+      <item completion_type="2" description="" identifier="fb0a8b81-50f9-44cd-8810-3b7d61462d55">
+        <title>Software and Applications</title>
+        <item completion_type="2" description="" identifier="d2c0954f-4735-4b32-81e0-788f1d198fa8" identifierref="RES_CONTENT_12303082">
+          <title>What is software?</title>
+        </item>
+        <item completion_type="2" description="" identifier="46ab833d-ecc2-411b-bde1-2455d3435ecc" identifierref="RES_CONTENT_12303083">
+          <title>Types of software</title>
+        </item>
+        <item completion_type="2" description="" identifier="10c67708-22a3-4211-b746-d819ec29ae79" identifierref="RES_CONTENT_12303084">
+          <title>What is an operating system?</title>
+        </item>
+        <item completion_type="2" description="" identifier="0f6c6d91-f0ea-435a-a030-bd7eedda378e" identifierref="RES_CONTENT_12303085">
+          <title>Operating Systems</title>
+        </item>
+        <item completion_type="2" description="" identifier="87e3a3ae-3b04-454b-b514-c378c5da002f" identifierref="RES_CONTENT_12303087">
+          <title>Examples of application software</title>
+        </item>
+        <item completion_type="2" description="" identifier="c6dcd275-de34-496a-9977-0223616e97f9" identifierref="RES_CONTENT_12303115">
+          <title>Mobile fun facts</title>
+        </item>
+        <item completion_type="2" description="" identifier="0b5c0d60-4f87-4be3-8a55-56fc7f770733" identifierref="RES_CONTENT_12303116">
+          <title>How to install an app to your smart phone</title>
+        </item>
+        <item completion_type="2" description="" identifier="cc0389c2-7877-414d-b8ca-533b855a7d9e" identifierref="RES_CONTENT_66bcf111-71a3-44ea-8a3c-548a9a422cdb">
+          <title>Activity 2</title>
+        </item>
+      </item>
+      <item completion_type="2" description="" identifier="10ed516e-5fb7-4868-9724-97e812772957">
+        <title>Workplace Applications</title>
+        <item completion_type="2" description="" identifier="225b147b-8ad9-4c44-aff4-0d18549aaf66" identifierref="RES_CONTENT_5df9503b-6886-4839-bc58-0407bb5cd4d0">
+          <title>Productivity Applications</title>
+        </item>
+        <item completion_type="2" description="" identifier="b4db092c-0661-4ca9-9391-2eac99811c74" identifierref="RES_CONTENT_7e99b047-dfd8-4b62-8a38-cc316c5b2c4b">
+          <title>Microsoft Office</title>
+        </item>
+        <item completion_type="2" description="" identifier="a6da7abc-6f91-4f53-bd0f-78ac30863c24" identifierref="RES_CONTENT_69047626-fea7-4b31-8a51-bae85f7afb47">
+          <title>Microsoft Word</title>
+        </item>
+        <item completion_type="2" description="" identifier="66397c89-7499-4b90-b04e-9eb546b63e77" identifierref="RES_CONTENT_3ba26064-b5e4-483d-bdf4-88bd91026f49">
+          <title>Activity: Microsoft Word</title>
+        </item>
+        <item completion_type="2" description="" identifier="b659677f-de8e-4bbd-bd1b-f85275e635fe" identifierref="RES_CONTENT_9d01725f-f5fd-429e-b241-285effd63ccf">
+          <title>Microsoft Excel</title>
+        </item>
+        <item completion_type="2" description="" identifier="f2b84732-9968-485f-b94b-aeb572723991" identifierref="RES_CONTENT_a532bdae-c0f6-4dfc-85cc-02b4511b3158">
+          <title>Activity: Microsoft Excel</title>
+        </item>
+        <item completion_type="2" description="" identifier="ac2e2191-6423-465b-a82c-15101045b84a" identifierref="RES_CONTENT_0fb7f442-2cab-4024-9549-da49ddb1f8a8">
+          <title>Communication Applications</title>
+        </item>
+      </item>
+      <item completion_type="2" description="" identifier="2787c1e1-d556-4a98-a86e-f8c7ca1f775d">
+        <title>Internet issues and basic troubleshooting</title>
+        <item completion_type="2" description="" identifier="101478f7-63a7-4396-bcc1-7401f00f2eef" identifierref="RES_CONTENT_7d5870a4-7fe2-497e-ace5-2cdd671cb563">
+          <title>Internet issues and basic troubleshooting</title>
+        </item>
+        <item completion_type="2" description="" identifier="5432be2e-a150-4e09-aedc-e45792598d2d" identifierref="RES_CONTENT_f64345a8-954c-4c9b-917e-bffedccd7956">
+          <title>Connecting to the internet</title>
+        </item>
+        <item completion_type="2" description="" identifier="af69ef77-1d15-4fb7-a44a-230b60dff07d" identifierref="RES_CONTENT_8e3ca974-25b9-411a-be56-594ff33885ee">
+          <title>Internet bandwidth and performance measurement tools</title>
+        </item>
+        <item completion_type="2" description="" identifier="152c1178-20bb-42e7-bc95-6ac6bd80bbb3" identifierref="RES_CONTENT_254ad230-4699-4457-85a8-eccd8490484c">
+          <title>Activity 4</title>
+        </item>
+      </item>
+      <item completion_type="2" description="" identifier="4dfc39de-b478-4783-8da0-97e081826295">
+        <title>Computer maintenance and tips to assist performance</title>
+        <item completion_type="2" description="" identifier="6d7d88b3-96aa-4428-83db-7dee8d4bb1a1" identifierref="RES_CONTENT_bdc8a8f1-178f-4d2a-a21c-ef47c707de89">
+          <title>Computer maintenance and tips to assist performance</title>
+        </item>
+        <item completion_type="2" description="" identifier="ed53cf28-bd38-45eb-a1a9-5de07f13abd1" identifierref="RES_CONTENT_5048f42c-f415-420b-8226-1298f7494a8b">
+          <title>Activity 5</title>
+        </item>
+      </item>
+      <item completion_type="2" description="" identifier="6534a83d-c0d7-4640-ad19-baddf65421d8">
+        <title>Summary</title>
+        <item completion_type="2" description="" identifier="ebe9324d-007d-43a2-8064-da9b34f84dac" identifierref="RES_CONTENT_12303119">
+          <title>Summary</title>
+        </item>
+      </item>
+      <title>Learning content</title>
+      <item completion_type="2" description="" identifier="5548b190-5e3f-4e2b-8ea9-8b863de8adbe">
+        <title>Acknowledgements</title>
+        <item completion_type="2" description="" identifier="c061d8c7-6241-4202-abf3-12428efb7567" identifierref="RES_CONTENT_d2664a2b-e395-459c-8103-39b1ce055513">
+          <title>Attributions</title>
+        </item>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource href="content/01-Introduction/Welcome to the course.html" identifier="RES_CONTENT_12303064" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/01-Introduction/What is Digital Literacy.html" identifier="RES_CONTENT_12303065" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/02-Hardware/Hardware.html" identifier="RES_CONTENT_12303067" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/02-Hardware/What are the different types of computers.html" identifier="RES_CONTENT_12303068" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/02-Hardware/Smartphones.html" identifier="RES_CONTENT_12303069" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/02-Hardware/Wearables.html" identifier="RES_CONTENT_12303070" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/02-Hardware/Smart Devices.html" identifier="RES_CONTENT_12303078" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/02-Hardware/An IoT smart home with AI by Qualcomm Technologies.html" identifier="RES_CONTENT_12303079" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/02-Hardware/Activity Smart devices.html" identifier="RES_CONTENT_12303080" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/03-Software_and_Applications/What is software.html" identifier="RES_CONTENT_12303082" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/03-Software_and_Applications/Types of software.html" identifier="RES_CONTENT_12303083" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/03-Software_and_Applications/What is an operating system.html" identifier="RES_CONTENT_12303084" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/03-Software_and_Applications/Operating Systems.html" identifier="RES_CONTENT_12303085" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/03-Software_and_Applications/Examples of application software.html" identifier="RES_CONTENT_12303087" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/03-Software_and_Applications/Mobile fun facts.html" identifier="RES_CONTENT_12303115" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/03-Software_and_Applications/How to install an app to your smart phone.html" identifier="RES_CONTENT_12303116" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/03-Software_and_Applications/Activity 2.html" identifier="RES_CONTENT_66bcf111-71a3-44ea-8a3c-548a9a422cdb" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/04-Workplace_Applications/Productivity Applications.html" identifier="RES_CONTENT_5df9503b-6886-4839-bc58-0407bb5cd4d0" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/04-Workplace_Applications/Microsoft Office.html" identifier="RES_CONTENT_7e99b047-dfd8-4b62-8a38-cc316c5b2c4b" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/04-Workplace_Applications/Microsoft Word.html" identifier="RES_CONTENT_69047626-fea7-4b31-8a51-bae85f7afb47" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/04-Workplace_Applications/Activity- Microsoft Word.html" identifier="RES_CONTENT_3ba26064-b5e4-483d-bdf4-88bd91026f49" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/04-Workplace_Applications/Microsoft Excel.html" identifier="RES_CONTENT_9d01725f-f5fd-429e-b241-285effd63ccf" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/04-Workplace_Applications/Activity  - Microsoft Excel.html" identifier="RES_CONTENT_a532bdae-c0f6-4dfc-85cc-02b4511b3158" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/04-Workplace_Applications/Communication Applications.html" identifier="RES_CONTENT_0fb7f442-2cab-4024-9549-da49ddb1f8a8" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/05-Internet_issues_and_basic_troubleshooting/Internet issues and basic troubleshooting.html" identifier="RES_CONTENT_7d5870a4-7fe2-497e-ace5-2cdd671cb563" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/05-Internet_issues_and_basic_troubleshooting/Connecting to the internet.html" identifier="RES_CONTENT_f64345a8-954c-4c9b-917e-bffedccd7956" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/05-Internet_issues_and_basic_troubleshooting/Internet bandwidth and performance measurement tools.html" identifier="RES_CONTENT_8e3ca974-25b9-411a-be56-594ff33885ee" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/05-Internet_issues_and_basic_troubleshooting/Activity 4.html" identifier="RES_CONTENT_254ad230-4699-4457-85a8-eccd8490484c" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/06-Computer_maintenance_and_tips_to_assist/Computer maintenance and tips to assist performance.html" identifier="RES_CONTENT_bdc8a8f1-178f-4d2a-a21c-ef47c707de89" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/06-Computer_maintenance_and_tips_to_assist/Activity 5.html" identifier="RES_CONTENT_5048f42c-f415-420b-8226-1298f7494a8b" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/07-Summary/Summary.html" identifier="RES_CONTENT_12303119" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="sco"/>
+    <resource href="content/08-Acknowledgements/Attributions.html" identifier="RES_CONTENT_d2664a2b-e395-459c-8103-39b1ce055513" type="webcontent" d2l_2p0:material_type="content" adlcp:scormtype="asset"/>
+  </resources>
+</manifest>

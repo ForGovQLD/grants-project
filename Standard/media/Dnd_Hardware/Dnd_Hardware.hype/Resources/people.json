@@ -1,0 +1,3 @@
+var nameJSON = '{"name":"Joyce", "age":31, "city":"Brisbane"}';
+var myPeople = JSON.parse(nameJSON);
+//myPeople.name - will equal Joyce
